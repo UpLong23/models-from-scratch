@@ -226,4 +226,8 @@ print(utils.accuracy(y_true=y_test, y_pred=tree.predict(X_test)))
 
 
 
-# %%
+# %% [markdown]
+
+### Future additions: 
+
+# * Add the Gini criterion on top of the entropy criterion to make splits
